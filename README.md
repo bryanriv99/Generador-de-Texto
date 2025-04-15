@@ -1,4 +1,4 @@
-# Generador de Texto Basado en Cadenas de Markov
+# Generador de Texto Basado en Matrices evolutivas
 
 Este proyecto implementa un generador de texto que utiliza cadenas de Markov para crear nuevas secuencias de palabras basadas en un texto de entrada. El generador analiza las probabilidades de transición entre palabras en el texto original para crear nuevas combinaciones que mantienen cierta coherencia estadística.
 
